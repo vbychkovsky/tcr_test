@@ -3,7 +3,8 @@ TestCommitRevert Test
 
 - Install Save and Run
 - Add the following to the settings
-```    "saveAndRun": {
+```    
+    "saveAndRun": {
         "commands": [
             {
               "match": ".py$",
